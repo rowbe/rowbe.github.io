@@ -1,2 +1,1 @@
-# rowbe.github.io
-Websites done right
+# arupmandal.github.io
